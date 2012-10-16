@@ -12,5 +12,5 @@ Gem::Specification.new do |gem|
   gem.summary       = %q{Just a bundle with the files from original css3-microsoft-metro-buttons, already fixed for turbolinks compat. This gem is based on version 1.1.0 of css3-microsoft-metro-buttons. Enjoy!}
   gem.homepage      = "http://github.com/caarlos0/css3-microsoft-metro-buttons-rails"
 
-  gem.files         = Dir["{lib,vendor}/**/*"] + "README.md"
+  gem.files         = Dir["{lib,vendor}/**/*"] + ["README.md"]
 end
